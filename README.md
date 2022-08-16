@@ -4,7 +4,7 @@
     <img src="https://media.discordapp.net/attachments/827947440945627167/1008536926787207239/chonky-seal-logo.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">GUI Installer for Chonky Seal OS</h3>
+  <h3 align="center">Assets for Chonky Seal OS</h3>
 </p> 
 
 ## Contributing
